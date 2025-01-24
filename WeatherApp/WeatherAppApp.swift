@@ -1,17 +1,10 @@
-//
-//  WeatherAppApp.swift
-//  WeatherApp
-//
-//  Created by Gustavo Juk on 24/01/25.
-//
-
 import SwiftUI
 
 @main
-struct WeatherAppApp: App {
+struct WeatherApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
