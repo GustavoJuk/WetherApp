@@ -5,7 +5,8 @@ This is a challenge app with the purpose of demonstranting some skills, such as 
 
 ## How to build
 1 - Inside the file **Weather Service** at <ins>line 5</ins> change the string "YOUR_API_KEY" to an key provided at [Weatherapi.com](https://www.weatherapi.com/my/).
-\n2 - Hit run and build the app on any iOS device.
+
+2 - Hit run and build the app on any iOS device.
 
 ## Considerations
 - The iOS target verison is set to be 18.0+
