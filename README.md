@@ -4,7 +4,7 @@
 This is a challenge app with the purpose of demonstranting some skills, such as code writing, problem solving, data manegement, etc.
 
 ## How to build
-1 - Inside the file **Weather Service** at <ins>line 5</ins> change the string "YOUR_API_KEY" to an key provided at [Weatherapi.com](https://www.weatherapi.com/my/).
+1 - Inside the file <ins>**Weather Service**</ins> at <ins>line 5</ins> change the string _"YOUR_API_KEY"_ to a key provided at [Weatherapi.com](https://www.weatherapi.com/my/).
 
 2 - Hit run and build the app on any iOS device.
 
